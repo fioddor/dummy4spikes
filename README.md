@@ -13,4 +13,4 @@ Let's test
   5. - It visualizes a sequence: 0->A, then 0->B, then B->AB, which feels weird and cofusing.
   6. + git log --graph --oneline showsdiff  the merge as a branch.
   7. + git diff visualizes as requested (no preffered sequence).
-* 
+* Detects github-desktop conflicts upfront?
