@@ -5,3 +5,4 @@ Let's test
 * a ff (smooth) fetch.
 * a ff (smooth) rebase.
 * ok: I checked that Repository>Pull works at least for ff.
+* In the meantime, this has evolved, causing a clash.
